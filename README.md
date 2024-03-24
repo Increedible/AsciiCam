@@ -2,7 +2,9 @@
 Generate Ascii Art of your Camera in Real Time!
 
 **Requirements**
-Camera permission! Make sure your antivirus is allowing cam permission to the file. This program does not connect to the internet in any way.
+Camera permissio! Make sure your antivirus is allowing cam permission to the file. This program does not connect to the internet in any way.
+
+Opencv2 is used to get the camera output, so make sure you have that linked aswell.
 
 **Usage**
 
